@@ -1,0 +1,41 @@
+body {
+  background: url(../images/fondo2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;   
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+html{
+	height: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.content{
+	margin-top:1em;
+}
+.bottom_links{
+	margin-top:1em;
+}
+#panel{
+	margin-top:2em;
+	margint-bottom:2em;
+	background: rgba(255, 255, 255, 0.87);
+	
+}
+#anyadir{
+	float:left;
+	margin-right:0.3em;
+}
+.inicio{
+	float:left;
+	margin-right:0.3em;
+}
+.bg-primary{
+	margin-top:1em;
+	text-align:center;
+}
+button{
+	padding:0.3em;
+}

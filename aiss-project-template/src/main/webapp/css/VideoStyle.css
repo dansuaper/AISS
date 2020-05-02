@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+body{
+	background-color: #fcd181;
+}
+
+iframe{
+	margin-top: 60px;
+	margin-left: 30px;
+}
+
+.receta{
+	background: #86b893;
+	display: block;
+	border: 1px solid;
+	margin: 15px auto;
+	padding: 10px;
+	width: 1200px;
+	border-radius: 6px;
+	
+}
